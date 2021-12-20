@@ -383,6 +383,7 @@ section{
 .contact .right form .field input:focus,
 .contact .right form .field textarea:focus{
 	border-color: #dda0dd;
+	border-width: 2px;
 }
 .contact .right form .textarea textarea{
 	padding-top: 10px;
