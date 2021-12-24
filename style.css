@@ -74,6 +74,7 @@
 	color: #e0495a;
 	min-height: auto;
 	max-height: auto;
+	width: 100%;
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: 'Montserrat', sans-serif;
