@@ -102,11 +102,20 @@
 	margin-top: 30px;
 	border-radius: 10px;
 	transition: all 0.5s linear;
+	border: 2px solid;
 }
 .home .home-content a:hover{
 	color: white;
 	background: turquoise;
+	border-color: #79fe65;
+	color: #ff7ad3;
+	transform: translateY(-0.25em);
 }
+.home .home-content a:active{
+	color: red;
+	background: pink;
+}
+
 
 /* About Section */
 
