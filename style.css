@@ -72,8 +72,8 @@
 	background: url("images/banner.jpg") no-repeat center;
 	height: 100vh;
 	color: #e0495a;
-	min-height: 500px;
-	max-height: 720px;
+	min-height: auto;
+	max-height: auto;
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: 'Montserrat', sans-serif;
